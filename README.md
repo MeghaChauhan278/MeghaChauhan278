@@ -2,30 +2,75 @@
 
 ## 💫 About Me
 
-🎓 Aspiring Java Backend Developer
+🎓 B.Tech Computer Science & Engineering (Cybersecurity) Student
 
-🌱 Currently Learning:
+💻 Aspiring Java Backend Developer passionate about building scalable backend applications using Java and Spring Boot.
+
+🌱 **Currently Learning:**
 - Data Structures & Algorithms
 - Spring Boot
+- Hibernate
+- Spring Security
+- JWT Authentication
 
-🎯 Goal:
+🎯 **Goal:**
 Become a Java Backend Developer and build real-world backend applications.
 
 ---
 
 ## 🛠 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=java,html,mysql,python,maven,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,hibernate,html,maven,git,github,postman,idea,vscode,python)](https://skillicons.dev)
 
-### Skills
-- Java
-- JDBC
+### 💻 Skills
+
+- ☕ Java
+- 🌱 Spring Boot
+- 🔗 REST APIs
+- 🗄️ Spring Data JPA
+- 🛢️ Hibernate
+- 🔌 JDBC
+- 🐬 MySQL
+- 🌐 HTML5
+- 🐍 Python
+- 📦 Maven
+- 🌿 Git
+- 🐙 GitHub
+- 📮 Postman
+- 🍃 Thymeleaf
+- 📚 Data Structures & Algorithms
+- 🧩 Object-Oriented Programming (OOP)
+- 🗃️ DBMS
+- 💻 Operating Systems
+
+---
+
+## 🚀 Projects
+
+### 🎮 DSA Quest – Gamified DSA Progress Tracker
+- XP System
+- Levels
+- Achievement Badges
+- Daily Streaks
+- Leaderboards
+- Built using Spring Boot, Spring Data JPA, Hibernate, MySQL & Thymeleaf
+
+### 📝 Blog Application Backend
+- RESTful APIs
+- CRUD Operations
+- Spring Boot
+- Spring Data JPA
+- Hibernate
 - MySQL
-- HTML5
-- Python
-- Maven
-- Git
-- GitHub
+
+---
+
+## 📈 Current Focus
+
+- 🚀 Building Backend Projects
+- 📚 Solving DSA Problems
+- 🔐 Learning Spring Security & JWT
+- ⚡ Improving Java Backend Development Skills
 
 ---
 
@@ -41,25 +86,6 @@ Become a Java Backend Developer and build real-world backend applications.
 
 ---
 
-## 🚀 Projects
-
-- Java Programs
-- JDBC Projects
-- Voting System
-- DSA Practice
-- Future Spring Boot Projects
-
----
-
-## 📈 Current Focus
-
-- Solving DSA Problems
-- Learning Spring Boot
-- Building Java Projects
-- Improving Git & GitHub Skills
-
----
-
 ## 📫 Connect With Me
 
-GitHub: https://github.com/MeghaChauhan278
+- GitHub: https://github.com/MeghaChauhan278
