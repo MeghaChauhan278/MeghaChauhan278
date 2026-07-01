@@ -2,25 +2,25 @@
 
 ## 💫 About Me
 
-🎓 **B.Tech Computer Science & Engineering (Cybersecurity) Student**
+🎓 B.Tech Computer Science & Engineering (Cybersecurity) Student
 
-💻 Aspiring **Java Backend Developer** passionate about building scalable backend applications using **Java, Spring Boot, Hibernate, and MySQL**.
+💻 Aspiring Java Backend Developer passionate about building scalable backend applications using Java and Spring Boot.
 
-🌱 **Currently Learning**
+🌱 **Currently Learning:**
 - Data Structures & Algorithms
 - Spring Boot
 - Hibernate
 - Spring Security
 - JWT Authentication
 
-🎯 **Goal**
-Become a skilled Java Backend Developer and build scalable real-world backend applications.
+🎯 **Goal:**
+Become a Java Backend Developer and build real-world backend applications.
 
 ---
 
 ## 🛠 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,hibernate,html,css,maven,git,github,postman,idea,vscode,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,hibernate,html,maven,git,github,postman,idea,vscode,python)](https://skillicons.dev)
 
 ### 💻 Skills
 
@@ -31,12 +31,13 @@ Become a skilled Java Backend Developer and build scalable real-world backend ap
 - 🛢️ Hibernate
 - 🔌 JDBC
 - 🐬 MySQL
-- 🍃 Thymeleaf
-- 🌐 HTML5 & CSS3
+- 🌐 HTML5
 - 🐍 Python
 - 📦 Maven
-- 🌿 Git & GitHub
+- 🌿 Git
+- 🐙 GitHub
 - 📮 Postman
+- 🍃 Thymeleaf
 - 📚 Data Structures & Algorithms
 - 🧩 Object-Oriented Programming (OOP)
 - 🗃️ DBMS
@@ -47,40 +48,20 @@ Become a skilled Java Backend Developer and build scalable real-world backend ap
 ## 🚀 Projects
 
 ### 🎮 DSA Quest – Gamified DSA Progress Tracker
-
-- 🎯 XP System
-- 🏆 Levels
-- 🥇 Achievement Badges
-- 🔥 Daily Streaks
-- 📊 Progress Tracking
-- 🏅 Leaderboards
-
-**Tech Stack**
-- Java
-- Spring Boot
-- Spring Data JPA
-- Hibernate
-- MySQL
-- Thymeleaf
-
----
+- XP System
+- Levels
+- Achievement Badges
+- Daily Streaks
+- Leaderboards
+- Built using Spring Boot, Spring Data JPA, Hibernate, MySQL & Thymeleaf
 
 ### 📝 Blog Application Backend
-
-**Features**
 - RESTful APIs
 - CRUD Operations
-- Category, Post & Comment Modules
-- Validation
-- Exception Handling
-
-**Tech Stack**
-- Java
 - Spring Boot
 - Spring Data JPA
 - Hibernate
 - MySQL
-- Maven
 
 ---
 
@@ -95,30 +76,18 @@ Become a skilled Java Backend Developer and build scalable real-world backend ap
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MeghaChauhan278&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MeghaChauhan278&theme=tokyonight&hide_border=true" />
-</p>
+![Megha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MeghaChauhan278&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 💻 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeghaChauhan278&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeghaChauhan278&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/MeghaChauhan278
-- LinkedIn: https://www.linkedin.com/in/megha-chauhan278/
+- Linkedin: https://www.linkedin.com/in/megha-chauhan278/
 - Email: meghachauhan472@gmail.com
