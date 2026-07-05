@@ -76,18 +76,22 @@ Become a Java Backend Developer and build real-world backend applications.
 
 ## 📊 GitHub Stats
 
-![Megha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MeghaChauhan278&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MeghaChauhan278&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
 
 ---
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeghaChauhan278&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeghaChauhan278&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/MeghaChauhan278
-- Linkedin: https://www.linkedin.com/in/megha-chauhan278/
+- LinkedIn: https://www.linkedin.com/in/megha-chauhan278/
 - Email: meghachauhan472@gmail.com
