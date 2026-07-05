@@ -48,6 +48,7 @@ Become a Java Backend Developer and build real-world backend applications.
 ## 🚀 Projects
 
 ### 🎮 DSA Quest – Gamified DSA Progress Tracker
+
 - XP System
 - Levels
 - Achievement Badges
@@ -56,6 +57,7 @@ Become a Java Backend Developer and build real-world backend applications.
 - Built using Spring Boot, Spring Data JPA, Hibernate, MySQL & Thymeleaf
 
 ### 📝 Blog Application Backend
+
 - RESTful APIs
 - CRUD Operations
 - Spring Boot
@@ -74,19 +76,27 @@ Become a Java Backend Developer and build real-world backend applications.
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MeghaChauhan278&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MeghaChauhan278&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MeghaChauhan278&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MeghaChauhan278&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MeghaChauhan278&theme=tokyonight)
 
 ---
 
-## 💻 Most Used Languages
+# 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeghaChauhan278&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+![](https://streak-stats.demolab.com?user=MeghaChauhan278&theme=tokyonight&hide_border=true)
+
+---
+
+# 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=MeghaChauhan278&theme=tokyo-night)
 
 ---
 
