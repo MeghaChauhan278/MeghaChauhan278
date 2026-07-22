@@ -11,7 +11,6 @@
 - Spring Boot
 - Hibernate
 - Spring Security
-- JWT Authentication 
 
 🎯 **Goal:**
 Become a Java Backend Developer and build real-world backend applications.
