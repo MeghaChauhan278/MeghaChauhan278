@@ -37,7 +37,6 @@ Become a Java Backend Developer and build real-world backend applications.
 - 🌿 Git
 - 🐙 GitHub
 - 📮 Postman
-- 🍃 Thymeleaf
 - 📚 Data Structures & Algorithms
 - 🧩 Object-Oriented Programming (OOP)
 - 🗃️ DBMS
